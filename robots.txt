@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://ramalan-pacar-togel.github.io/rpt-1/sitemap.xml
